@@ -1,5 +1,7 @@
 # fast-mcp-tools
 
+[FastMCP](https://github.com/modelcontextprotocol/python-sdk/blob/main/README.md)
+
 To test using `mcp dev server.py` move mcp out of main:
 
 ```python
